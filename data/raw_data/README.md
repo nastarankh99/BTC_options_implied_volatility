@@ -1,6 +1,5 @@
 # Raw Data
 
-Raw data are not included in this repository.
 
 Place the following files in this folder before running the replication:
 

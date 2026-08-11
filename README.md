@@ -28,7 +28,6 @@ python programs/00_setup.py
 
 ## Raw Data
 
-The raw data are not included in this repository because of data redistribution restrictions.
 
 Before running the replication, place the following three files in `data/raw_data/` using these exact filenames:
 
