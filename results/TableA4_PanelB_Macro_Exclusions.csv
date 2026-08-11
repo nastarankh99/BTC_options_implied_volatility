@@ -1,0 +1,5 @@
+Exclusion,Expiration Events excluded,Expiration Events remaining,Post estimate,p-value
+FOMC,0,46,-3.719***,<0.001
+CPI release,0,46,-3.719***,<0.001
+GDP release,31,15,-4.121**,0.016
+All macro announcements,31,15,-4.121**,0.016

@@ -2,6 +2,4 @@
 
 This folder contains the raw data inputs and the datasets created for the analysis.
 
-Raw data should be placed in `raw_data/`. The data preparation program creates the analysis datasets in `data_for_analysis/`.
-
-See the root `README.md` for data sources and replication instructions.
+The raw data used in the analysis are included in data/raw_data/. The prepared analysis datasets are included in data/data_for_analysis/. The data preparation program can also recreate the analysis datasets from the raw data.

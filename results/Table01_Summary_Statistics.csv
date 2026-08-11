@@ -1,0 +1,15 @@
+Variable,Mean,Std. Dev.,Min,Max,N
+BTC-DVOL (index points),56.791,14.113,32.74,119.65,1003
+VIX (index points),19.265,5.63,11.86,52.33,1003
+S&P 500 return (%),0.036,1.121,-6.161,9.089,1003
+Bitcoin return (%),0.03,3.04,-17.28,12.398,1003
+DXY return (%),0.003,0.47,-2.142,1.638,1003
+10-year Treasury yield change (pp),0.003,0.066,-0.28,0.24,1003
+VVIX (index points),96.569,14.874,73.26,173.32,1003
+MOVE index,108.439,20.884,58.5,198.71,996
+7-day realized Bitcoin volatility (%),2.783,1.241,0.546,9.707,997
+Monthly expiration indicator,0.047,0.211,0.0,1.0,1003
+Quarterly expiration indicator,0.015,0.121,0.0,1.0,1003
+FOMC announcement window,0.095,0.293,0.0,1.0,1003
+CPI announcement window,0.136,0.343,0.0,1.0,1003
+GDP announcement window,0.136,0.343,0.0,1.0,1003

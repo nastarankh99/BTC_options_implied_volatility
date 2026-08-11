@@ -1,0 +1,5 @@
+Event window,Expiration events,Post estimate,p-value
+±5 trading days,46,-2.053***,0.0050
+±10 trading days,46,-2.894***,0.0004
+±14 trading days,46,-3.719***,<0.001
+±20 trading days,45,-3.327***,0.0026
