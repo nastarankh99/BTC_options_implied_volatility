@@ -1,8 +1,7 @@
-# Data folder
+# Data
 
-This folder will contain all data.
+This folder contains the raw data inputs and the datasets created for the analysis.
 
-- Raw data goes in the `raw_data` subfolder.
-- Data for analysis goes in the `data_for_analysis` subfolder
+Raw data should be placed in `raw_data/`. The data preparation program creates the analysis datasets in `data_for_analysis/`.
 
-See the README in those subfolders for additional details.
+See the root `README.md` for data sources and replication instructions.

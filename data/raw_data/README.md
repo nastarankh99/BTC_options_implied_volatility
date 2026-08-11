@@ -1,12 +1,11 @@
-# Raw data folder
+# Raw Data
 
-This folder will contain all raw data, including data you have collected youself
-as well as data downloaded or received from other sources.
+Raw data are not included in this repository.
 
-- Be sure to provide provenance information for all raw data, either in this
-  README or in the main README for this replication package.
-- If you have collected the data yourself and it is non-confidential, include it
-  in the GitHub replication package.
-- If the data cannot be directly included in the replication package
-  - Include code in your setup program to download it to the correct folder OR
-  - Provide instructions on how to obtain the raw data and where to put it.
+Place the following files in this folder before running the replication:
+
+- `btc_dvol_complete_2021_2025.csv`
+- `bloomberg_data_session4_extended_2025_december.xlsx`
+- `bloomberg_data_session7_final.xlsx`
+
+See the root `README.md` for data sources and instructions.
