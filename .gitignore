@@ -34,3 +34,18 @@ results/*.png
 results/figures/
 
 # See <DDD> for additional options
+# Raw data
+data/raw_data/*
+!data/raw_data/README.md
+
+# Generated analysis data
+data/data_for_analysis/*
+!data/data_for_analysis/README.md
+
+# Generated results
+results/*
+!results/README.md
+
+# Python temporary files
+__pycache__/
+*.pyc
