@@ -27,9 +27,7 @@ python programs/00_setup.py
 ```
 
 ## Raw Data
-
-
-Before running the replication, place the following three files in `data/raw_data/` using these exact filenames:
+The replication package includes the following three raw data files in data/raw_data/:
 
 - `btc_dvol_complete_2021_2025.csv`  
 - `bloomberg_data_session4_extended_2025_december.xlsx`
@@ -45,7 +43,6 @@ The analysis uses BTC observations and the daily closing value of DVOL. The file
 
 `data/raw_data/btc_dvol_complete_2021_2025.csv`
 (The CSV file used in the analysis contains the historical daily BTC-DVOL observations obtained from the Deribit API for 2022–2025.)
-The raw Deribit data are not redistributed in this repository.
 
 ### Bloomberg Financial Market Data
 
@@ -83,7 +80,7 @@ The analysis creates indicators for U.S. trading days that fall within one calen
 
 ## Running the Replication
 
-After placing the three raw data files in `data/raw_data/`, install the required packages if needed:
+The required raw data files are included in data/raw_data/. Install the required packages if needed:
 
 ```bash
 python programs/00_setup.py
@@ -105,7 +102,6 @@ The generated tables and figures are saved in:
 
 `results/`
 
-These generated files are not stored in the GitHub repository.
 
 ## Program Structure
 
