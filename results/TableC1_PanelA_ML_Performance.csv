@@ -1,5 +1,0 @@
-Model,RMSE,Cross-validated R²,Prediction correlation
-Simple average,4.948,-0.045,—
-Random Forest,3.112,0.587,0.776
-Gradient Boosting,2.771,0.672,0.820
-LASSO,2.989,0.619,0.787
