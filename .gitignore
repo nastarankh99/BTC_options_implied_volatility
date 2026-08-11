@@ -35,7 +35,11 @@ results/figures/
 
 # See <DDD> for additional options
 
+data/data_for_analysis/*
+!data/data_for_analysis/README.md
 
+results/*
+!results/README.md
 
 # Python temporary files
 __pycache__/
