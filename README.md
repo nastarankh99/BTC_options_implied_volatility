@@ -92,7 +92,7 @@ Then run the full replication with:
 python programs/01_main.py
 ```
 
-The master program runs the data preparation, main analysis, and appendix analysis in order.
+The master program (01_main.py) runs the data preparation, main analysis, and appendix analysis in order.
 
 The generated analysis datasets are saved in:
 
