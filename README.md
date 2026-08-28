@@ -1,10 +1,5 @@
 # Bitcoin Option Expirations and Implied Volatility
-
-Replication package for:
-
-Nastaran Khorram  
-ECON 899 MA Paper  
-August 2026
+An empirical study of whether monthly Bitcoin option expirations are associated with changes in BTC implied volatility, using event-study regressions, robustness and placebo tests, and machine-learning models.
 
 ## Overview
 
